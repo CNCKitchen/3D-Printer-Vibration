@@ -1,3 +1,4 @@
+; Created for the Original Prusa i3 MK2 - USE AT YOUR OWN RISK!
 G28 W
 G0 X100 Y100 Z120
 G1 X99.90 F5000; 208.33Hz
